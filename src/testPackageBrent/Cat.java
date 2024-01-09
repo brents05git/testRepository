@@ -11,6 +11,7 @@ public class Cat
 	public void meow()
 	{
 		System.out.println("MEOW");
+		System.out.println("This is a test");
 	}
 	
 	public Cat()
